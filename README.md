@@ -7,7 +7,7 @@
 
 ***
 
-## **Features:**
+## **Features:**s
 * ### **All CS:GO Skins** - over **1500** weapon skins, including rare patterns such as sapphire, ruby, etc.
 * ### **All Cases and Collections** - **74** original cases from different eras of Counter-Strike! From **Cobblestone Souvenirs** to latest **Revolution Case**!
 * ### **Real Chances of Cases** - all chances are as close as possible to real game chances

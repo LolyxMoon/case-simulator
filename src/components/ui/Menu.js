@@ -192,7 +192,7 @@ const Menu = () => {
             </div>
             <div className="settings-footer">
                 <div className="footer-row">cs-csgo dist v{GlobalState.version}</div>
-                <div className="footer-row">Open source on&nbsp;<a className="link" href="https://github.com/jsarseny/case-simulator" target="_blank">GitHub</a></div>
+                <div className="footer-row">Twitter &nbsp;<a className="link" href="https://x.com/MonadCSGOCases" target="_blank">GitHub</a></div>
             </div>
         </Modal>
     }
